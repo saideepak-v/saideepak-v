@@ -13,116 +13,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```{=html}
-<h1 align="center">
-```
-Hi 👋, I'm Sai Deepak Vemula
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-Tech Enthusiast \| Aspiring AI Engineer
-```{=html}
-</h3>
-```
-```{=html}
+<h1 align="center">Hi 👋, I'm Sai Deepak Vemula</h1>
+<h3 align="center">Tech Enthusiast | Aspiring AI Engineer</h3>
+
 <p align="center">
-```
-`<em>`{=html}Still learning... tomorrow, I will do it!`</em>`{=html}
-`<br />`{=html} `<strong>`{=html}Building today. Becoming better every
-day.`</strong>`{=html}
-```{=html}
+  <em>Still learning... tomorrow, I will do it!</em>
+  <br>
+  <strong>Building today. Becoming better every day.</strong>
 </p>
-```
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 About Me
 
-```{=html}
 <table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="58%" valign="top">
-```
-```{=html}
-<ul>
-```
-```{=html}
-<li>
-```
-📁 Check out my
-`<a href="https://github.com/saideepak-v?tab=repositories">`{=html}portfolio
-and projects`</a>`{=html}
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
-▶️ Visit my YouTube channel `<em>`{=html}(add your link)`</em>`{=html}
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
-💼 Connect with me on LinkedIn `<em>`{=html}(add your
-link)`</em>`{=html}
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
-✍️ I regularly write articles on Medium `<em>`{=html}(add your
-link)`</em>`{=html}
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
-💬 Ask me about Python and AI/ML
-```{=html}
-</li>
-```
-```{=html}
-<li>
-```
-📫 Reach me: `<em>`{=html}add your preferred email`</em>`{=html}
-```{=html}
-</li>
-```
-```{=html}
-</ul>
-```
-```{=html}
-</td>
-```
-```{=html}
-<td width="42%" align="center" valign="middle">
-```
-`<strong>`{=html}Featured photo / YouTube poster`</strong>`{=html}
-`<br />`{=html}`<br />`{=html} `<em>`{=html}Replace this area with an
-image you upload to your repository.`</em>`{=html}
-`<br />`{=html}`<br />`{=html}
-`<a href="https://github.com/saideepak-v?tab=repositories">`{=html}Explore
-my projects →`</a>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
+  <tr>
+    <td width="58%" valign="top">
+      <ul>
+        <li>📁 Check out my <a href="https://github.com/saideepak-v?tab=repositories">portfolio and projects</a></li>
+        <li>▶️ Visit my YouTube channel <em>(add your link)</em></li>
+        <li>💼 Connect with me on LinkedIn <em>(add your link)</em></li>
+        <li>✍️ I regularly write articles on Medium <em>(add your link)</em></li>
+        <li>💬 Ask me about Python and AI/ML</li>
+        <li>📫 Reach me: <em>add your preferred email</em></li>
+      </ul>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <strong>Featured photo / YouTube poster</strong>
+      <br><br>
+      <em>Replace this text with your image after uploading it to the repository.</em>
+      <br><br>
+      <a href="https://github.com/saideepak-v?tab=repositories">Explore my projects →</a>
+    </td>
+  </tr>
 </table>
-```
+
 ## 💙 What I Love About Technology
 
 I'm a technology enthusiast who loves exploring how technology can solve
@@ -139,41 +64,32 @@ for opportunities to learn, create, and improve.
 
 ### 💻 Programming & Data Analysis
 
-```{=html}
 <p>
-```
-`<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />`{=html}
-`<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />`{=html}
-`<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />`{=html}
-`<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />`{=html}
-`<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />`{=html}
-`<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </p>
-```
+
 ### 🤖 AI & ML
 
-```{=html}
 <p>
-```
-`<img src="https://img.shields.io/badge/AI%2FML-7B61FF?style=for-the-badge" alt="AI and ML" />`{=html}
-`<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />`{=html}
-`<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/AI%2FML-7B61FF?style=for-the-badge" alt="AI and ML">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
 </p>
-```
-### ⚙️ MLOps & Tools
 
-```{=html}
+### ⚙️ MLOps
+
 <p>
-```
-`<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />`{=html}
-`<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />`{=html}
-`<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />`{=html}
-`<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
-```
+
 ### 🤝 Soft Skills
 
 `Problem Solving` · `Critical Thinking` · `Communication` ·
@@ -181,182 +97,111 @@ for opportunities to learn, create, and improve.
 
 ------------------------------------------------------------------------
 
-## 🔨 Currently Working On
-
--   🧹 Revisiting and improving my older projects
--   🍽️ Restaurant Recommendation App (React Native)
--   🎵 Mobile + Desktop Spotify Clone
--   ✍️ Planning my next blog
--   🎨 Improving my CSS skills
-
-## 🌱 Currently Learning
-
--   📱 React Native
--   🔥 Firebase
--   ⚛️ React Context API
--   🎨 Styled Components
--   🚀 Exploring new technologies
--   🧠 Building stronger foundations in AI/ML
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🔨 Currently Working On</h2>
+      <ul>
+        <li>Revisiting and improving my older projects</li>
+        <li>Restaurant Recommendation App (React Native)</li>
+        <li>Mobile + Desktop Spotify Clone</li>
+        <li>Planning my next blog</li>
+        <li>Improving my CSS skills</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h2>🌱 Currently Learning</h2>
+      <ul>
+        <li>React Native</li>
+        <li>Firebase</li>
+        <li>React Context API</li>
+        <li>Styled Components</li>
+        <li>Exploring new technologies</li>
+        <li>Building stronger foundations in AI/ML</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ------------------------------------------------------------------------
 
 ## 🏆 Accomplishments
 
-```{=html}
 <table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" height="110">
-```
- `<br />`{=html}`<br />`{=html}`<br />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" height="110">
-```
- `<br />`{=html}`<br />`{=html}`<br />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
+  <tr>
+    <td width="50%" height="110">&nbsp;<br><br><br></td>
+    <td width="50%" height="110">&nbsp;<br><br><br></td>
+  </tr>
 </table>
-```
 
 ------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
 
-```{=html}
 <table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" align="center" valign="top">
-```
-`<strong>`{=html}Most Used Languages`</strong>`{=html}
-`<br />`{=html}`<br />`{=html}
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideepak-v&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" align="center" valign="top">
-```
-`<strong>`{=html}GitHub Stats`</strong>`{=html}
-`<br />`{=html}`<br />`{=html}
-`<img src="https://github-readme-stats.vercel.app/api?username=saideepak-v&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <strong>Most Used Languages</strong>
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideepak-v&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <strong>GitHub Stats</strong>
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=saideepak-v&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics">
+    </td>
+  </tr>
 </table>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=saideepak-v&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />`{=html}
-```{=html}
+  <img src="https://streak-stats.demolab.com?user=saideepak-v&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak">
 </p>
-```
 
 ------------------------------------------------------------------------
 
 ## 📌 Pinned Projects
 
-```{=html}
 <table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<strong>`{=html}`<a href="https://github.com/saideepak-v/Tetris-Scape">`{=html}Tetris-Scape`</a>`{=html}`</strong>`{=html}
-`<br />`{=html}A web project inspired by Tetris, focused on creating and
-customizing layouts with block-based interactions.
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<strong>`{=html}`<a href="https://github.com/saideepak-v/AI-Powered-Resume-Screening-System">`{=html}AI-Powered
-Resume Screening System`</a>`{=html}`</strong>`{=html} `<br />`{=html}An
-AI/ML project exploring resume parsing and candidate-job matching.
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<strong>`{=html}`<a href="https://github.com/saideepak-v/Welcome-to-Open-Source">`{=html}Welcome-to-Open-Source`</a>`{=html}`</strong>`{=html}
-`<br />`{=html}A starting point for exploring open-source contributions.
-```{=html}
-</td>
-```
-```{=html}
-<td width="50%" valign="top">
-```
-`<strong>`{=html}`<a href="https://github.com/saideepak-v/first-contributions">`{=html}First
-Contributions`</a>`{=html}`</strong>`{=html} `<br />`{=html}A repository
-for learning the basics of contributing to open source.
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/saideepak-v/Tetris-Scape">Tetris-Scape</a></strong>
+      <br>A web project inspired by Tetris, focused on creating and customizing layouts with block-based interactions.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/saideepak-v/AI-Powered-Resume-Screening-System">AI-Powered Resume Screening System</a></strong>
+      <br>An AI/ML project exploring resume parsing and candidate-job matching.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/saideepak-v/Welcome-to-Open-Source">Welcome-to-Open-Source</a></strong>
+      <br>A starting point for exploring open-source contributions.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/saideepak-v/first-contributions">First Contributions</a></strong>
+      <br>A repository for learning the basics of contributing to open source.
+    </td>
+  </tr>
 </table>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://github.com/saideepak-v?tab=repositories">`{=html}
-`<img src="https://img.shields.io/badge/Explore%20All%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />`{=html}
-`</a>`{=html}
-```{=html}
+  <a href="https://github.com/saideepak-v?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories">
+  </a>
 </p>
-```
 
 ------------------------------------------------------------------------
 
 ## 📈 Activity
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=saideepak-v&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" />`{=html}
-```{=html}
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saideepak-v&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph">
 </p>
-```
 
 ------------------------------------------------------------------------
 
-```{=html}
 <p align="center">
-```
-`<em>`{=html}Curious by nature. Learning with purpose. Building step by
-step.`</em>`{=html} `<br />`{=html} ⭐ Thanks for visiting my profile!
-```{=html}
+  <em>Curious by nature. Learning with purpose. Building step by step.</em>
+  <br>
+  ⭐ Thanks for visiting my profile!
 </p>
-```
