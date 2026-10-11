@@ -13,201 +13,350 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<h1 align="center">Hi 👋, I'm Sai Deepak Vemula</h1>
-<h3 align="center">Technology Enthusiast | Developer | Lifelong Learner</h3>
-
+```{=html}
+<h1 align="center">
+```
+Hi 👋, I'm Sai Deepak Vemula
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+Tech Enthusiast \| Aspiring AI Engineer
+```{=html}
+</h3>
+```
+```{=html}
 <p align="center">
-  <i>Building ideas, solving problems, and learning something new every day.</i>
+```
+`<em>`{=html}Still learning... tomorrow, I will do it!`</em>`{=html}
+`<br />`{=html} `<strong>`{=html}Building today. Becoming better every
+day.`</strong>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 ## 👨‍💻 About Me
 
+```{=html}
 <table>
+```
+```{=html}
 <tr>
-<td width="60%" valign="top">
-
-I'm a technology enthusiast who loves exploring how technology can solve real-world problems. I enjoy turning ideas into practical projects, experimenting with new tools, and continuously expanding my programming skills.
-
-What excites me most is the process of learning something new, figuring out how it works, and using that knowledge to build something meaningful. I'm particularly interested in AI, machine learning, and data-driven solutions, and I'm always looking for opportunities to learn, create, and improve.
-
+```
+```{=html}
+<td width="58%" valign="top">
+```
+```{=html}
+<ul>
+```
+```{=html}
+<li>
+```
+📁 Check out my
+`<a href="https://github.com/saideepak-v?tab=repositories">`{=html}portfolio
+and projects`</a>`{=html}
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+▶️ Visit my YouTube channel `<em>`{=html}(add your link)`</em>`{=html}
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+💼 Connect with me on LinkedIn `<em>`{=html}(add your
+link)`</em>`{=html}
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+✍️ I regularly write articles on Medium `<em>`{=html}(add your
+link)`</em>`{=html}
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+💬 Ask me about Python and AI/ML
+```{=html}
+</li>
+```
+```{=html}
+<li>
+```
+📫 Reach me: `<em>`{=html}add your preferred email`</em>`{=html}
+```{=html}
+</li>
+```
+```{=html}
+</ul>
+```
+```{=html}
 </td>
-<td width="40%" valign="middle" align="center">
-
-<!-- Replace this placeholder with your own hosted image or YouTube thumbnail. -->
-
-**📸 A Featured Project / Poster**
-
-[Explore my repositories](https://github.com/saideepak-v?tab=repositories)
-
+```
+```{=html}
+<td width="42%" align="center" valign="middle">
+```
+`<strong>`{=html}Featured photo / YouTube poster`</strong>`{=html}
+`<br />`{=html}`<br />`{=html} `<em>`{=html}Replace this area with an
+image you upload to your repository.`</em>`{=html}
+`<br />`{=html}`<br />`{=html}
+`<a href="https://github.com/saideepak-v?tab=repositories">`{=html}Explore
+my projects →`</a>`{=html}
+```{=html}
 </td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </table>
+```
+## 💙 What I Love About Technology
 
----
+I'm a technology enthusiast who loves exploring how technology can solve
+real-world problems. I enjoy turning ideas into practical projects,
+experimenting with new tools, and continuously expanding my programming
+skills. What excites me most is learning how things work and using that
+knowledge to build something meaningful. I'm especially interested in
+AI, machine learning, and data-driven solutions, and I'm always looking
+for opportunities to learn, create, and improve.
 
-## 🚀 Currently Working On & 🌱 Currently Learning
+------------------------------------------------------------------------
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🛠️ Skills
 
-### 🔨 Currently Working On
+### 💻 Programming & Data Analysis
 
-- 🧹 Revamping my older projects
-- 🍽️ Restaurant Recommendation App (React Native)
-- 🎵 Mobile + Desktop Spotify Clone
-- ✍️ Planning my next blog
-- 🎨 Improving my CSS skills
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Currently Learning
-
-- 📱 React Native
-- 🔥 Firebase
-- ⚛️ React Context API
-- 🎨 Styled Components
-- 🚀 Exploring new technologies
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Skills & Technologies
-
-### 💻 Programming Languages
-
+```{=html}
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+```
+`<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />`{=html}
+`<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />`{=html}
+`<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />`{=html}
+`<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />`{=html}
+`<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />`{=html}
+`<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />`{=html}
+```{=html}
 </p>
+```
+### 🤖 AI & ML
 
-### 🤖 AI & Machine Learning
-
+```{=html}
 <p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7B61FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF9A3C?style=for-the-badge" />
+```
+`<img src="https://img.shields.io/badge/AI%2FML-7B61FF?style=for-the-badge" alt="AI and ML" />`{=html}
+`<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />`{=html}
+`<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />`{=html}
+```{=html}
 </p>
+```
+### ⚙️ MLOps & Tools
 
-### 📊 Data Analysis & Databases
-
+```{=html}
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-2E8B57?style=for-the-badge" />
+```
+`<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />`{=html}
+`<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />`{=html}
+`<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />`{=html}
+`<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />`{=html}
+```{=html}
 </p>
-
-### ⚙️ Tools & Other Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
+```
 ### 🤝 Soft Skills
 
-`Problem Solving` · `Critical Thinking` · `Adaptability` · `Continuous Learning`
+`Problem Solving` · `Critical Thinking` · `Communication` ·
+`Adaptability` · `Continuous Learning`
 
----
+------------------------------------------------------------------------
+
+## 🔨 Currently Working On
+
+-   🧹 Revisiting and improving my older projects
+-   🍽️ Restaurant Recommendation App (React Native)
+-   🎵 Mobile + Desktop Spotify Clone
+-   ✍️ Planning my next blog
+-   🎨 Improving my CSS skills
+
+## 🌱 Currently Learning
+
+-   📱 React Native
+-   🔥 Firebase
+-   ⚛️ React Context API
+-   🎨 Styled Components
+-   🚀 Exploring new technologies
+-   🧠 Building stronger foundations in AI/ML
+
+------------------------------------------------------------------------
+
+## 🏆 Accomplishments
+
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" height="110">
+```
+ `<br />`{=html}`<br />`{=html}`<br />`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" height="110">
+```
+ `<br />`{=html}`<br />`{=html}`<br />`{=html}
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+
+------------------------------------------------------------------------
 
 ## 📊 GitHub Stats
 
+```{=html}
 <table>
+```
+```{=html}
 <tr>
-<td width="50%" align="center">
-
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideepak-v&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-
+```
+```{=html}
+<td width="50%" align="center" valign="top">
+```
+`<strong>`{=html}Most Used Languages`</strong>`{=html}
+`<br />`{=html}`<br />`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideepak-v&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />`{=html}
+```{=html}
 </td>
-<td width="50%" align="center">
-
-### GitHub Overview
-
-<img src="https://github-readme-stats.vercel.app/api?username=saideepak-v&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
+```
+```{=html}
+<td width="50%" align="center" valign="top">
+```
+`<strong>`{=html}GitHub Stats`</strong>`{=html}
+`<br />`{=html}`<br />`{=html}
+`<img src="https://github-readme-stats.vercel.app/api?username=saideepak-v&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />`{=html}
+```{=html}
 </td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </table>
-
+```
+```{=html}
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saideepak-v&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+```
+`<img src="https://streak-stats.demolab.com?user=saideepak-v&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 📌 Featured Projects
+## 📌 Pinned Projects
 
+```{=html}
 <table>
+```
+```{=html}
 <tr>
+```
+```{=html}
 <td width="50%" valign="top">
-
-**🎮 [Tetris-Scape](https://github.com/saideepak-v/Tetris-Scape)**
-
-A web project inspired by Tetris, focused on building an interactive experience.
-
+```
+`<strong>`{=html}`<a href="https://github.com/saideepak-v/Tetris-Scape">`{=html}Tetris-Scape`</a>`{=html}`</strong>`{=html}
+`<br />`{=html}A web project inspired by Tetris, focused on creating and
+customizing layouts with block-based interactions.
+```{=html}
 </td>
+```
+```{=html}
 <td width="50%" valign="top">
-
-**🤖 [AI-Powered Resume Screening System](https://github.com/saideepak-v/AI-Powered-Resume-Screening-System)**
-
-An AI/ML project for resume evaluation and candidate-job matching.
-
+```
+`<strong>`{=html}`<a href="https://github.com/saideepak-v/AI-Powered-Resume-Screening-System">`{=html}AI-Powered
+Resume Screening System`</a>`{=html}`</strong>`{=html} `<br />`{=html}An
+AI/ML project exploring resume parsing and candidate-job matching.
+```{=html}
 </td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr>
+```
+```{=html}
 <td width="50%" valign="top">
-
-**🌟 [Welcome-to-Open-Source](https://github.com/saideepak-v/Welcome-to-Open-Source)**
-
-Explore my open-source contributions.
-
+```
+`<strong>`{=html}`<a href="https://github.com/saideepak-v/Welcome-to-Open-Source">`{=html}Welcome-to-Open-Source`</a>`{=html}`</strong>`{=html}
+`<br />`{=html}A starting point for exploring open-source contributions.
+```{=html}
 </td>
+```
+```{=html}
 <td width="50%" valign="top">
-
-**🤝 [First Contributions](https://github.com/saideepak-v/first-contributions)**
-
-A starting point for contributing to open source.
-
+```
+`<strong>`{=html}`<a href="https://github.com/saideepak-v/first-contributions">`{=html}First
+Contributions`</a>`{=html}`</strong>`{=html} `<br />`{=html}A repository
+for learning the basics of contributing to open source.
+```{=html}
 </td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </table>
-
+```
+```{=html}
 <p align="center">
-  <a href="https://github.com/saideepak-v?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+```
+`<a href="https://github.com/saideepak-v?tab=repositories">`{=html}
+`<img src="https://img.shields.io/badge/Explore%20All%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />`{=html}
+`</a>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 📈 Contribution Activity
+## 📈 Activity
 
+```{=html}
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saideepak-v&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=saideepak-v&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" />`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## 🤝 Let's Connect
-
+```{=html}
 <p align="center">
-  <a href="https://github.com/saideepak-v">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+```
+`<em>`{=html}Curious by nature. Learning with purpose. Building step by
+step.`</em>`{=html} `<br />`{=html} ⭐ Thanks for visiting my profile!
+```{=html}
 </p>
-
-<p align="center">
-  💡 Always curious. Always learning. Always building.
-  <br />
-  ⭐ Thanks for visiting my profile!
-</p>
-
+```
